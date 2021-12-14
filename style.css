@@ -29,4 +29,16 @@ position: relative;
     padding: 8px 12px;
     position: top;
     }
-    
+    .nav-links ul li a{
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        font-size: 19px;    
+        }
+        .header2{
+        min-height: 100vh;    
+        width: 100;
+        background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/background.jpg);
+        background-position: center;
+        background-size: cover;
+        position: relative;
+            }
